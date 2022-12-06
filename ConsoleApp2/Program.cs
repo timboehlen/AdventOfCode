@@ -5,6 +5,7 @@ namespace Aufgabe1
 {
     class Program
     {
+        //Program
         static void Main(string[] args)
         {
             var input = Data.input;
